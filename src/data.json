@@ -1,0 +1,16 @@
+{
+    "main": [
+        {
+            "id": 1,
+            "heading": "Photo 1",
+            "image_url": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aHVtYW58ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "description": "This is the free photo form our side and also it is the basic photo"
+        },
+        {
+            "id": 2,
+            "heading": "Photo 2",
+            "image_url": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGh1bWFufGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+            "description": "This photo is our first step to the most advance section although this is the advance level one photo"
+        }
+    ]
+}
